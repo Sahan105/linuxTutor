@@ -1,4 +1,4 @@
 / = 50000 or 100000
 /boot =1024
-swap=11000
+swap=11000 for 8 gb ram( ram *2 for swap area)
 /home=rest of  the storage
