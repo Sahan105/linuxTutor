@@ -1,0 +1,4 @@
+/ = 50000 or 100000
+/boot =1024
+swap=11000
+/home=rest of  the storage
